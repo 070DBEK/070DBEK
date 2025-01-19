@@ -4,10 +4,14 @@
 
 ### 🧑‍💻 **Men haqimda:**
 - 💼 **Kasbim:** Full Stack Developer  
-- 💡 **Qiziqishlarim:** Brawl Stars o'yini va hayotda Field Hockey  
 - 📚 **O'rganyapman:** Ingliz tili va Rus tili  
 - 🌱 **Loyihalarim:** SEO blog, School CRM, Todo-Project va boshqa ko'plab loyihalar  
 - 🌐 **Loyihalarimdan biri:** [Blog Sayt](https://github.com/070DBEK/blog-sayt.git)  
+- ### 🎯 **Qiziqishlarim:**
+- 🎮 **Brawl Stars** o'yinini o'ynash  
+- 🏑 **Field Hockey** (maydon xokkeyi) bilan shug'ullanish  
+- 💻 Texnologiyalarni o'rganish va dasturlash  
+
 
 ---
 
