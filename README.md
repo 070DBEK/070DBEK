@@ -1,17 +1,27 @@
-# 🌟 Assalomu alaykum! Men __Ahmadov Ozodbek__ 👋  
+# 🌟 Assalomu alaykum! Men __![Ahmadov Ozodbek](https://example.com/animated-name.gif)__ 👋  
+
 
 ![Profile Banner](https://i.imgur.com/zpP7B8V.png)
+
+---
 
 ### 🧑‍💻 **Men haqimda:**
 - 💼 **Kasbim:** Full Stack Developer  
 - 📚 **O'rganyapman:** Ingliz tili va Rus tili  
 - 🌱 **Loyihalarim:** SEO blog, School CRM, Todo-Project va boshqa ko'plab loyihalar  
 - 🌐 **Loyihalarimdan biri:** [Blog Sayt](https://github.com/070DBEK/blog-sayt.git)  
-- ### 🎯 **Qiziqishlarim:**
+
+---
+
+### 🎯 **Qiziqishlarim:**
 - 🎮 **Brawl Stars** o'yinini o'ynash  
 - 🏑 **Field Hockey** (maydon xokkeyi) bilan shug'ullanish  
 - 💻 Texnologiyalarni o'rganish va dasturlash  
 
+---
+
+### 🖥️ **GIF bilan dasturlash jarayoni:**
+![Coding Boy](https://media.giphy.com/media/3o7abkhOpu0NwenH3O/giphy.gif)  
 
 ---
 
@@ -51,6 +61,13 @@
 ### 💬 **Muloqot uchun:**
 - 📧 **Email:** ahmadovozodbek80@gmail.com  
 - 📱 **Telegram:** [@ahmadov_ozodbek](https://t.me/ahmadov_ozodbek)  
+
+---
+
+### 🌐 **Mening loyihalarim:**
+1. **[Blog Sayt](https://github.com/070DBEK/blog-sayt.git):** Bloglarni boshqarish va nashr qilish uchun tayyorlangan sayt.
+2. **[School CRM](https://github.com/070DBEK/school-crm.git):** Ta'lim muassasalarini boshqarish uchun qulay tizim.
+3. **[Todo-Project](https://github.com/070DBEK/todo-project.git):** Shaxsiy ishlarni rejalashtirish va boshqarish uchun oddiy task menejer.
 
 ---
 
