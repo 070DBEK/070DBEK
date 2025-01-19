@@ -1,5 +1,8 @@
-# 🌟 Assalomu alaykum! Men __![Ahmadov Ozodbek](https://example.com/animated-name.gif)__ 👋  
+<h1 align="center">
+  <img src="name.svg" alt="Ahmadov Ozodbek"/>
+</h1>
 
+# 🌟 Assalomu alaykum! Men Full Stack dasturchiman 👋  
 
 ![Profile Banner](https://i.imgur.com/zpP7B8V.png)
 
