@@ -9,7 +9,7 @@
 ---
 
 ### 🧑‍💻 **Men haqimda:**
-- 💼 **Kasbim:** Full Stack Developer  
+- 💼 **Kasbim:** Backend Developer  
 - 📚 **O'rganyapman:** Ingliz tili va Rus tili  
 - 🌱 **Loyihalarim:** SEO blog, School CRM, Todo-Project va boshqa ko'plab loyihalar  
 - 🌐 **Loyihalarimdan biri:** [Blog Sayt](https://github.com/070DBEK/blog-sayt.git)  
