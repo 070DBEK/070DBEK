@@ -2,7 +2,7 @@
   <img src="name.svg" alt="Ahmadov Ozodbek"/>
 </h1>
 
-# 🌟 Assalomu alaykum! Men Full Stack dasturchiman 👋  
+# 🌟 Assalomu alaykum! Men Backend dasturchiman 👋  
 
 ![Profile Banner](https://i.imgur.com/zpP7B8V.png)
 
